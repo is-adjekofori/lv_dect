@@ -1,6 +1,4 @@
-<<<<<<< HEAD
-# IT-FID
-=======
+
 # Liveness Detection System
 
 This project is a liveness detection system that uses a pipeline of actions to determine if a person is live. The system uses computer vision to detect facial gestures such as blinking and mouth opening.
@@ -39,4 +37,3 @@ The `main.py` file contains the main application logic, including the action pip
    ```
    python main.py
    ```
->>>>>>> 6593a5a ( Added core function of eye and mouth thracking)
